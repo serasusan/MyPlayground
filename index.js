@@ -21,7 +21,7 @@ function updateCountdowntime(){
     const s = Math.floor(diff/1000)%60;
 
     if(d==0 || d==-1){
-        countdownTime.innerText="It's Christmas!"
+        countdownTime.innerText="It's Christmas!💚"
     }
     else if( d==-2 || d==-3 || d==-4 || d==-5 || d==-6){
         currentYear = new Date().getFullYear()+1;
