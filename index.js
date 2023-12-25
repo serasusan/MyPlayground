@@ -23,7 +23,7 @@ function updateCountdowntime(){
     if(d==0 || d==-1){
         countdownTime.innerText="It's Christmas!"
     }
-    else if(d==-1 || d==-2 || d==-3 || d==-4 || d==-5 || d==-6){
+    else if( d==-2 || d==-3 || d==-4 || d==-5 || d==-6){
         currentYear = new Date().getFullYear()+1;
         console.log(currentYear);
         ChristmasTime = new Date(`December 25 ${currentYear} 00:00:00`);
