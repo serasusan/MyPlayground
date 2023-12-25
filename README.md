@@ -10,5 +10,7 @@ A basic Countdown made using HTML,CSS & JS. I've hosted it on Netlify
 - innerText, document.getElementById
 - To check the status of days count and to replace the div with "It's Christmas!💚" or with the Counter.
 
+<br>
+
 ![SS Of Website](./SS.png)
 
