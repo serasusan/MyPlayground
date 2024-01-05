@@ -7,4 +7,5 @@ In each branch, you'll find these small projects. I've included the hosted link 
 
 ### Projects build so far:
 1. Christmas Countdown Timer
-2. and counting :")
+2. ToDoList using React
+3. and counting :")
